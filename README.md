@@ -46,7 +46,7 @@ This application was created as part of the BUS 340 coursework at NC State. It a
 
 ---
 
-## 🙋‍♂️ Author
+## Author
 
 **Nate Kiflemariam**  
 📧 Natnaelk2002@gmail.com  
